@@ -10,7 +10,7 @@ This practice problem challenges the participants to predict the ratings for jok
 We thank Dr. Ken Goldberg's group for putting this super cool data together and for permission to share it with the AV community.
 
 ## Data
-This dataset contains 40,863 users who have rate 139 Jokes b/w -10 to 10 rating. Total ratings databaase contains 1,092,059 observations.
+This dataset contains 40,863 users who have rated 139 Jokes b/w -10 to 10 rating. Total ratings database contains 1,092,059 observations.
 
 ## Approach
 Simple item-based collaborative filtering. (I know, but it's my first try at recommender engines.. what did you expect ? xD)
